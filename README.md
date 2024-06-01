@@ -7,9 +7,16 @@ The data and STATA code are made publicly available by the authors through [open
 Using data of Argentine men born between 1958 and 1962, Cruces et al. propose a causal relationship between dishonesty measured through
 failure rate a of a medical exam determining military conscription, and future public employment. Ordinary least squares and 2-stage least-squares regression analysis, with distance to a randomized cutoff as an instrumental variable, are used to estimate this relationship[^1]. 
 
-Figure 1 demonstrates the relationship between the instrument and the explanatory variable, and figure 2 demonstrates the relationship between the instrument and the dependent variable (reduced-form regression). 
+Figure 1 demonstrates the relationship between the instrument and the explanatory variable, and Figure 2 demonstrates the relationship between the instrument and the dependent variable (reduced-form regression). 
 [^1]: Please refer to the original paper for a more complete explanation of the experiment. 
 
 ## Explanation of variables 
-
+| Variable name      | Description |
+| ----------- | ----------- |
+| *attriter*      | Title       |
+| *cond_easy100*, *cond_hard100*, *cond_inter100*   | Text        |
+| *dairforce*, *dcohort*   | Text       |
+| *distancecutoff_norm*   | Text       | 
+| *empl_public*, *empl_private*   | Text       |
+| *failed_exam100*   | Text       |
 
