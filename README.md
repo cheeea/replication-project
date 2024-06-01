@@ -1,5 +1,5 @@
 # Replication Project
-This project is a replication of Figures 1 and 2 from Cruces et al.'s (2023) ["Dishonesty and Public Employment"](https://www.aeaweb.org/articles?id=10.1257/aeri.20220550) paper in AEA: Insights.The data and STATA code are made publicly available by the authors through [openICPSR](https://www.openicpsr.org/openicpsr/project/185801/version/V1/view). 
+This project is a replication of Figures 1 and 2 from Cruces et al.'s (2023) ["Dishonesty and Public Employment"](https://www.aeaweb.org/articles?id=10.1257/aeri.20220550) paper in AEA: Insights. The data and STATA code are made publicly available by the authors through [openICPSR](https://www.openicpsr.org/openicpsr/project/185801/version/V1/view). 
 
 My replication in R uses the tidyverse, dplyr, haven, binsreg, and cowplot packages. Download the "data and code" folder and run Figures_1_2.R. 
 
