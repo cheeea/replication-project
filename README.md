@@ -13,7 +13,7 @@ Figure 1 demonstrates the relationship between the instrument and the explanator
 ## Explanation of variables 
 | Variable name      | Description |
 | ----------- | ----------- |
-| *attriter*      | Equal to 1 if non-citizen       |
+| *attriter*      | Equal to 1 if non-citizen.       |
 | *cond_easy100*, *cond_hard100*, *cond_inter100*   | Equal to 1 if method used to cheat on medical exam was easy, hard, or moderately difficult to detect and/or carry out.        |
 | *dairforce*, *dcohort*   | Control variables for birth cohorts and air force participation.        |
 | *distancecutoff_norm*   | Normalized distance to cutoff for military conscription.       | 
