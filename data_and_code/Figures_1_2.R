@@ -10,7 +10,6 @@ library(ggplot2)
 library(binsreg)
 
 #### Load in data ####
-#setwd("C:/Users/cxiex/Downloads/ECON 140/185801-V1/data_directory")
 df <- haven::read_dta("FINAL_REPOSITORY_MAIN_FEB2023.dta")
 
 #### Filtering values ####
